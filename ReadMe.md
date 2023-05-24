@@ -1,5 +1,7 @@
 # MQTT Demo
 
+This repository is at: https://AdyGCode/MQTT-Demo
+
 ## Activating the Local `venv`
 This presumes you have a Python `venv` folder. It may 
 be called `venv-306`, or similar.
