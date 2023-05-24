@@ -34,3 +34,5 @@ Filename: `subscriber.py`
 - start the client
 - listen forever
 - when a message arrives - display it
+
+## TODO: add Publisher details
